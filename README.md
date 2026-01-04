@@ -30,7 +30,7 @@ MLOps-K8S-MiniProject/
 ├── static/              # CSS Assets
 └── README.md            # Project documentation
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
